@@ -1,0 +1,17 @@
+{
+    "company_name": "PT Indonesia Epson Industry",
+    "area_name": "Area A",
+    "camera_index": 0,
+    "confidence": 0.6,
+    "iou": 0.45,
+    "img_size": 640,
+    "notification": {
+        "enabled": true,
+        "email": false,
+        "telegram": false
+    },
+    "dashboard": {
+        "auto_refresh": true,
+        "refresh_interval": 5
+    }
+}
